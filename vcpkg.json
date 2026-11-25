@@ -1,0 +1,8 @@
+{
+  "name": "num-integration-lab",
+  "version-string": "1.0.0",
+  "dependencies": [
+    "gtest"
+  ],
+  "builtin-baseline": "9290f1a2049af5fdd6d580efbb765baaa85a3623"
+}
